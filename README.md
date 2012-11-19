@@ -16,10 +16,15 @@ Repo init CM as described in their howto.
 Outside Android source tree, do
 
 https://github.com/Jellaxy/local_manifest.git
+
 cd local_manifest
-git checkout ics
+
+git checkout jellybean
+
 cp local_manifest.xml /path/to/your/android/sourcetree/.repo
+
 cd /path/to/your/android/sourcetree/
+
 repo sync -j16
 
 compile android like you use to do.
