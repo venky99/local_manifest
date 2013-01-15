@@ -18,6 +18,6 @@
   <project path="kernel/samsung/msm7x27" name="Jellaxy/samsung_kernel_msm7x27" />
   <project path="packages/apps/Settings" name="Jellaxy/android_packages_apps_Settings" />
   <project path="system/netd" name="Jellaxy/android_system_netd" />
-  <project path="vendor/samsung" name="androidarmv6/android_vendor_samsung" revision="cm-10.1" />
+  <project path="vendor/samsung" name="Jellaxy/proprietary_vendor_samsung" />
   <project path="vendor/cm" name="Jellaxy/android_vendor_cm" />
 </manifest>
