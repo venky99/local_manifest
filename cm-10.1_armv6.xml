@@ -1,0 +1,4 @@
+<manifest>
+  <remove-project name="androidarmv6/android_device_ldpi-common" />
+  <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
+</manifest>
