@@ -1,4 +1,9 @@
 <manifest>
   <remove-project name="androidarmv6/android_device_ldpi-common" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
+  <project path="device/samsung/beni" name="erikcas/android_device_samsung_beni" revision="cm-10.1"/>
+  <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" revision="cm-10.1"/>
+  <project path="device/samsung/galaxy5" name="erikcas/android_device_samsung_galaxy5" revision="cm-10.1"/>
+  <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" revision="cm-10.1"/>
+  <project path="device/samsung/tass" name="erikcas/android_device_samsung_tass" revision="cm-10.1"/>
 </manifest>
