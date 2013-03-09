@@ -1,5 +1,6 @@
 <manifest>
   <remove-project name="androidarmv6/android_device_ldpi-common" />
+  <remove-project name="androidarmv6/android_vendor_google" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
   <project path="device/samsung/beni" name="erikcas/android_device_samsung_beni" revision="cm-10.1"/>
   <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" revision="cm-10.1"/>
@@ -7,9 +8,5 @@
   <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" revision="cm-10.1"/>
   <project path="device/samsung/tass" name="erikcas/android_device_samsung_tass" revision="cm-10.1"/>
 
-  <project path="kernel/samsung/msm7x27" name="androidarmv6/android_kernel_samsung_msm7x27" revision="cm-10.1"/>
-  <project path="device/qcom/msm7x27" name="androidarmv6/android_device_qcom_msm7x27" revision="cm-10.1"/>
-  <project path="device/samsung/msm7x27-common" name="androidarmv6/android_device_samsung_msm7x27-common" revision="cm-10.1"/>
-  <project path="vendor/samsung" name="androidarmv6/android_vendor_samsung" revision="cm-10.1"/>
-  <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" revision="cm-10.1"/>
+  <project path="vendor/google" name="erikcas/android_vendor_google" revision="cm-10.1" />
 </manifest>
