@@ -30,6 +30,7 @@
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="aokp" revision="cm-10.1" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" remote="aokp" revision="cm-10.1" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="aokp" revision="cm-10.1"/>
+  <project path="libcore" name="CyanogenMod/android_libcore" remote="aokp" revision="cm-10.1" />
   <project path="system/core" name="erikcas/android_system_core" remote="aokp" revision="jb-mr1" />
   <project path="system/netd" name="androidarmv6/android_system_netd" remote="aokp" revision="cm-10.1" />
 
