@@ -6,6 +6,7 @@
 
   <project path="bionic" name="CyanogenMod/android_bionic" remote="aokp" revision="cm-10.1" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="aokp" revision="cm-10.1" />
+  <project path="development" name="androidarmv6/android_development" remote="aokp" revision="cm-10.1" />
   <project path="external/libncurses" name="androidarmv6/android_external_libncurses" remote="aokp" revision="cm-10.1" />
   <project path="external/wpa_supplicant_8" name="androidarmv6/android_external_wpa_supplicant_8" remote="aokp" revision="cm-10.1" />
   <project path="external/srec" name="erikcas/platform_external_srec" remote="aokp" revision="jb-mr1" />
