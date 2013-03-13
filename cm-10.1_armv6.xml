@@ -1,17 +1,14 @@
 <manifest>
   <remove-project name="androidarmv6/android_device_ldpi-common" />
   <remove-project name="androidarmv6/android_vendor_google" />
+  <remove-project name="androidarmv6/android_hardware_libhardware_legacy" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
   <project path="device/samsung/beni" name="erikcas/android_device_samsung_beni" revision="cm-10.1"/>
   <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" revision="cm-10.1"/>
   <project path="device/samsung/galaxy5" name="erikcas/android_device_samsung_galaxy5" revision="cm-10.1"/>
   <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" revision="cm-10.1"/>
   <project path="device/samsung/tass" name="erikcas/android_device_samsung_tass" revision="cm-10.1"/>
-  <project path="device/samsung/msm7x27-common" name="erikcas/android_device_samsung_msm7x27-common" revision="cm-10.1"/>
-  <project name="androidarmv6/android_kernel_samsung_msm7x27" path="kernel/samsung/msm7x27" remote="github" revision="cm-10.1" />
-  <project name="androidarmv6/android_device_qcom_msm7x27" path="device/qcom/msm7x27" remote="github" revision="cm-10.1" />
-  <project name="androidarmv6/android_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.1" />
-  <project name="androidarmv6/android_vendor_qcom_msm7x27" path="vendor/qcom/msm7x27" remote="github" revision="cm-10.1" />
 
+  <project path="hardware/libhardware_legacy" name="erikcas/android_hardware_libhardware_legacy" revision="cm-10.1" />
   <project path="vendor/google" name="erikcas/android_vendor_google" revision="cm-10.1" />
 </manifest>
