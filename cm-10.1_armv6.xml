@@ -9,7 +9,7 @@
   <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" revision="cm-10.1"/>
   <project path="device/samsung/tass" name="erikcas/android_device_samsung_tass" revision="cm-10.1"/>
   <project path="device/samsung/msm7x27-common" name="erikcas/android_device_samsung_msm7x27-common" revision="cm-10.1"/>
-  <project path="device/qcom/msm7x27" name="erikcas/android_device_qcom_msm7x27" revision="cm-10.1" />
+  <project path="device/qcom/msm7x27" name="androidarmv6/android_device_qcom_msm7x27" revision="cm-10.1" />
 <!--  <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" revision="cm-10.1" />-->
 
   <project path="kernel/samsung/msm7x27" name="erikcas/android_kernel_samsung_msm7x27" revision="android-4.2.1" />
