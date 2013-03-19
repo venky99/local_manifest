@@ -2,7 +2,7 @@
   <remove-project name="androidarmv6/android_device_ldpi-common" />
   <remove-project name="androidarmv6/android_vendor_google" />
   <remove-project name="androidarmv6/android_hardware_libhardware_legacy" />
-  <remove-project name="androidarmv6/android_system_core" />
+  <remove-project name="CyanogenMod/android_system_core" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
   <project path="device/samsung/beni" name="erikcas/android_device_samsung_beni" revision="cm-10.1"/>
   <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" revision="cm-10.1"/>
