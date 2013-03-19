@@ -1,7 +1,8 @@
 <manifest>
   <remove-project name="androidarmv6/android_device_ldpi-common" />
   <remove-project name="androidarmv6/android_vendor_google" />
-<!--<remove-project name="androidarmv6/android_hardware_libhardware_legacy" />-->
+  <remove-project name="androidarmv6/android_hardware_libhardware_legacy" />
+  <remove-project name="androidarmv6/android_system_core" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" revision="cm-10.1"/>
   <project path="device/samsung/beni" name="erikcas/android_device_samsung_beni" revision="cm-10.1"/>
   <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" revision="cm-10.1"/>
@@ -14,7 +15,8 @@
 
   <project path="kernel/samsung/msm7x27" name="erikcas/android_kernel_samsung_msm7x27" revision="android-4.2.1" />
 
-<!--  <project path="hardware/libhardware_legacy" name="erikcas/android_hardware_libhardware_legacy" revision="cm-10.1" />-->
+  <project path="hardware/libhardware_legacy" name="erikcas/android_hardware_libhardware_legacy" revision="cm-10.1" />
+  <project path="system/core" name="armv6-ldpi/android_system_core" revision="cm-10.1" />
   <project path="vendor/google" name="erikcas/android_vendor_google" revision="cm-10.1" />
   <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" revision="cm-10.1" />
   <project path="vendor/samsung" name="androidarmv6/android_vendor_samsung" revision="cm-10.1" />
