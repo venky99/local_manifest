@@ -1,6 +1,7 @@
 <manifest>
   <remove-project name="androidarmv6/android_device_ldpi-common" />
   <remove-project name="androidarmv6/android_frameworks_av" />
+  <remove-project name="androidarmv6/android_frameworks_base" />
   <remove-project name="androidarmv6/android_vendor_google" />
   <remove-project name="androidarmv6/android_hardware_libhardware_legacy" />
   <remove-project name="CyanogenMod/android_system_core" />
@@ -17,6 +18,7 @@
   <project path="kernel/samsung/msm7x27" name="erikcas/android_gio_stock_kernel" revision="cm-10.1" />
 
   <project path="frameworks/av" name="erikcas/android_frameworks_av" revision="cm-10.1" />
+  <project path="frameworks/base" name="erikcas/android_frameworks_base" revision="cm-10.1" />
   <project path="hardware/libhardware_legacy" name="erikcas/android_hardware_libhardware_legacy" revision="cm-10.1" />
   <project path="system/core" name="armv6-ldpi/android_system_core" revision="cm-10.1" />
   <project path="vendor/google" name="erikcas/android_vendor_google" revision="cm-10.1" />
