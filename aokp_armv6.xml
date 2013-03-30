@@ -34,6 +34,7 @@
   <project path="libcore" name="CyanogenMod/android_libcore" remote="aokp" revision="cm-10.1" />
   <project path="system/core" name="erikcas/android_system_core" remote="aokp" revision="jb-mr1" />
   <project path="system/netd" name="androidarmv6/android_system_netd" remote="aokp" revision="cm-10.1" />
+  <project path="packages/apps/Settings" name="erikcas/android_packages_apps_Settings" remote="aokp" revision="jb-mr1" />
 
 <!--Legacy devices go here-->
   <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" remote="aokp" revision="jb-mr1" />
