@@ -47,7 +47,7 @@
   <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" remote="aokp" revision="cm-10.1" />
   <project path="device/ldpi-common" name="erikcas/android_device_ldpi-common" remote="aokp" revision="jb-mr1" />
 <!--Kernel goes here-->
-  <project path="kernel/samsung/msm7x27" name="erikcas/android_gio_stock_kernel" remote="aokp" revision="cm-10.1" />
+  <project path="kernel/samsung/msm7x27" name="erikcas/android_gio_stock_kernel" remote="aokp" revision="jellybean" />
 
 <!--Vendor goes here-->
   <project path="vendor/aokp" name="erikcas/vendor_aokp" remote="aokp" revision="jb-mr1" />
