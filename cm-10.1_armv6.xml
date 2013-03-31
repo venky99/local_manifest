@@ -16,7 +16,7 @@
   <project path="device/qcom/msm7x27" name="androidarmv6/android_device_qcom_msm7x27" revision="cm-10.1" />
 <!--  <project path="device/mdpi-common" name="androidarmv6/android_device_mdpi-common" revision="cm-10.1" />-->
 
-  <project path="kernel/samsung/msm7x27" name="erikcas/android_gio_stock_kernel" revision="cm-10.1" />
+  <project path="kernel/samsung/msm7x27" name="erikcas/android_gio_stock_kernel" revision="jellybean" />
 
   <project path="frameworks/av" name="erikcas/android_frameworks_av" revision="cm-10.1" />
   <project path="frameworks/base" name="erikcas/android_frameworks_base" revision="cm-10.1" />
