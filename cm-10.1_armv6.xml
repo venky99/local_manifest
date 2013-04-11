@@ -22,6 +22,7 @@
   <project path="frameworks/base" name="erikcas/android_frameworks_base" revision="cm-10.1" />
   <project path="hardware/libhardware_legacy" name="erikcas/android_hardware_libhardware_legacy" revision="cm-10.1" />
   <project path="system/core" name="armv6-ldpi/android_system_core" revision="cm-10.1" />
+  <project path="hardware/atheros/ath6kl-compat" name="androidarmv6/android_hardware_atheros_ath6kl-compat" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="erikcas/android_packages_apps_Settings" revision="cm-10.1" />
   <project path="vendor/google" name="erikcas/android_vendor_google" revision="cm-10.1" />
   <project path="vendor/qcom/msm7x27" name="androidarmv6/android_vendor_qcom_msm7x27" revision="cm-10.1" />
