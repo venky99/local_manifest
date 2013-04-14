@@ -7,6 +7,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="aokp" revision="cm-10.1" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="aokp" revision="cm-10.1" />
   <project path="development" name="androidarmv6/android_development" remote="aokp" revision="cm-10.1" />
+  <project path="external/dbus" name="androidarmv6/android_external_dbus" remote="aokp" revision="cm-10.1" />
   <project path="external/libncurses" name="androidarmv6/android_external_libncurses" remote="aokp" revision="cm-10.1" />
   <project path="external/wpa_supplicant_8" name="androidarmv6/android_external_wpa_supplicant_8" remote="aokp" revision="cm-10.1" />
   <project path="external/srec" name="erikcas/platform_external_srec" remote="aokp" revision="jb-mr1" />
@@ -35,7 +36,9 @@
   <project path="system/core" name="erikcas/android_system_core" remote="aokp" revision="jb-mr1" />
   <project path="system/netd" name="androidarmv6/android_system_netd" remote="aokp" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="erikcas/android_packages_apps_Settings" remote="aokp" revision="jb-mr1" />
-
+  <project path="packages/apps/Effem" name="androidarmv6/android_packages_apps_Effem" remote="aokp" revision="master" />
+  <project path="packages/apps/Bluetooth" name="androidarmv6/android_packages_apps_Bluetooth" remote="aokp" revision="cm-10.1" />
+  <project path="packages/apps/Bluetooth_msm" name="androidarmv6/android_packages_apps_Bluetooth_msm" remote="aokp" revision="cm-10.1" />
 <!--Legacy devices go here-->
   <project path="device/samsung/gio" name="erikcas/android_device_samsung_gio" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/cooper" name="erikcas/android_device_samsung_cooper" remote="aokp" revision="jb-mr1" />
